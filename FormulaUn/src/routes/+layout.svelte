@@ -26,7 +26,7 @@
     }
 
     nav {
-        background-color: #f1f1f1;
+        background-color: #9b9b9b;
         padding: 1rem;
     }
 
